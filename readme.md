@@ -22,6 +22,7 @@ Among many features of Inferno are:
 Dependencies:
 
 Inferno depends on the following:
+
 1. MS Windows OS with .NET 2.0 framework (http://www.microsoft.com/downloads/)
 2. R Statistical Environment (http://www.r-project.org/)
 3. statconnDCOM server (http://rcom.univie.ac.at/)
@@ -42,11 +43,11 @@ Inferno uses the following R packages among few others (from http://cran.r-proje
 * plotrix: Various plotting functions
 * scatterplot3d: 3D Scatter Plot
 * colorspace: Colorspace Manipulation
-_______________________________________________________________________________
-Developed by Ashoka Polpitiya 
-E-mail: ashoka.pol @ gmail.com
+***
+Developed by Ashoka Polpitiya
 
---------------------------------------------------------
+E-mail: ashoka.pol @ gmail.com
+***
 License Agreement
 
 Inferno is licensed under the Apache License, Version 2.0; you may not use this file except in compliance with the License.  You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
