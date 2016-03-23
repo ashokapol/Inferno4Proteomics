@@ -12,7 +12,7 @@
 # -------------------------------------------------------------------------
 
 rm(list=ls())
-setwd("C:/Ashoka/SoftwareProjects/Inferno/Trunk/Rscripts")
+setwd("C:/Ashoka/SoftwareProjects/Inferno4Proteomics/Rscripts")
 
 Rfiles <- dir(pattern="[R,r]$", recursive=TRUE)
 idxgg <- x<-sapply(Rfiles, function(x) grepl("Plotting/gg",x))
@@ -25,22 +25,22 @@ for (i in 2:length(Rfiles))
   source(Rfiles[i], verbose=FALSE)
 #browser()
 rm("i","Rfiles")
-save.image(file="C:/Ashoka/SoftwareProjects/Inferno/Trunk/bin/Debug/Inferno.RData")
+save.image(file="C:/Ashoka/SoftwareProjects/Inferno4Proteomics/bin/Debug/Inferno.RData")
 
 #-------------------------------------------------------------------
 rm(list=ls())
-setwd("C:/Ashoka/SoftwareProjects/Inferno/Trunk/Rscripts/Plotting/std")
+setwd("C:/Ashoka/SoftwareProjects/Inferno4Proteomics/Rscripts/Plotting/std")
 
 Rfiles <- dir(pattern="[R,r]$", recursive=TRUE)
 for (i in 1:length(Rfiles))
   source(Rfiles[i], verbose=FALSE)
 
 rm("i","Rfiles")
-save.image(file="C:/Ashoka/SoftwareProjects/Inferno/Trunk/bin/Debug/Inferno_stdplots.RData")
+save.image(file="C:/Ashoka/SoftwareProjects/Inferno4Proteomics/bin/Debug/Inferno_stdplots.RData")
 
 #-------------------------------------------------------------------
 rm(list=ls())
-setwd("C:/Ashoka/SoftwareProjects/Inferno/Trunk/Rscripts/Plotting/gg")
+setwd("C:/Ashoka/SoftwareProjects/Inferno4Proteomics/Rscripts/Plotting/gg")
 
 Rfiles <- dir(pattern="[R,r]$", recursive=TRUE)
 #browser()
@@ -48,4 +48,5 @@ for (i in 1:length(Rfiles))
   source(Rfiles[i], verbose=FALSE)
 
 rm("i","Rfiles")
-save.image(file="C:/Ashoka/SoftwareProjects/Inferno/Trunk/bin/Debug/Inferno_ggplots.RData")
+save.image(file="C:/Ashoka/SoftwareProjects/Inferno4Proteomics/bin/Debug/Inferno_ggplots.RData")
+
