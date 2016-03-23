@@ -1,0 +1,7 @@
+E:\Research\DAnTE\Trunk\Tools\LumenWorks.Framework.IO\bin\Release\LumenWorks.Framework.IO.dll
+E:\Research\DAnTE\Trunk\Tools\LumenWorks.Framework.IO\bin\Release\LumenWorks.Framework.IO.pdb
+E:\Research\DAnTE\Trunk\Tools\LumenWorks.Framework.IO\obj\Release\ResolveAssemblyReference.cache
+E:\Research\DAnTE\Trunk\Tools\LumenWorks.Framework.IO\obj\Release\LumenWorks.Framework.IO.Csv.Resources.ExceptionMessage.resources
+E:\Research\DAnTE\Trunk\Tools\LumenWorks.Framework.IO\obj\Release\LumenWorks.Framework.IO.csproj.GenerateResource.Cache
+E:\Research\DAnTE\Trunk\Tools\LumenWorks.Framework.IO\obj\Release\LumenWorks.Framework.IO.dll
+E:\Research\DAnTE\Trunk\Tools\LumenWorks.Framework.IO\obj\Release\LumenWorks.Framework.IO.pdb
