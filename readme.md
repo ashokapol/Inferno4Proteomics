@@ -19,7 +19,7 @@ Among many features of Inferno are:
 * ANOVA (multi-way, unbalanced, random effects)
 * Heatmaps with Hierarchical and K-means cluster options
 
-##Dependencies:
+###Dependencies:
 
 Inferno depends on the following:
 
