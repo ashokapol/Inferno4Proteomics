@@ -1,4 +1,4 @@
-Inferno for Proteomics
+#Inferno for Proteomics
 
 This is the source code for Inferno. Binary package is at http://ashokapol.github.io/Inferno/
 
@@ -53,5 +53,4 @@ Inferno is licensed under the Apache License, Version 2.0; you may not use this 
 
 All publications that utilize this software should provide the citation below:
 
-Polpitiya AD, Qian WJ, Jaitly N, Petyuk VA, Adkins JN, Camp DG 2nd, Anderson GA, Smith RD., DAnTE: a statistical tool for 
-quantitative analysis of -omics data. Bioinformatics. 2008 Jul 1;24(13):1556-8. (PMID: 18453552)
+Polpitiya AD, Qian WJ, Jaitly N, Petyuk VA, Adkins JN, Camp DG 2nd, Anderson GA, Smith RD., DAnTE: a statistical tool for quantitative analysis of -omics data. Bioinformatics. 2008 Jul 1;24(13):1556-8. (PMID: 18453552)
