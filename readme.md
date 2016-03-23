@@ -19,7 +19,7 @@ Among many features of Inferno are:
 * ANOVA (multi-way, unbalanced, random effects)
 * Heatmaps with Hierarchical and K-means cluster options
 
-Dependencies:
+##Dependencies:
 
 Inferno depends on the following:
 
@@ -43,6 +43,7 @@ Inferno uses the following R packages among few others (from http://cran.r-proje
 * plotrix: Various plotting functions
 * scatterplot3d: 3D Scatter Plot
 * colorspace: Colorspace Manipulation
+
 ***
 Developed by Ashoka Polpitiya
 
